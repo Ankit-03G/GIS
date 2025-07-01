@@ -18,7 +18,7 @@ Whether you’re mapping locations, exploring spatial patterns, or building cust
   Pan, zoom, and explore beautiful maps with smooth interactions.
 
 - **Layer Management**  
-  Add, remove, and toggle different geographic layers (e.g., points, lines, polygons).
+  Add, remove, and toggle different geographic layers (e.g., points, lines, polygons ).
 
 - **Custom Data Upload**  
   Import your own GeoJSON, KML, or CSV files to visualize your data.
