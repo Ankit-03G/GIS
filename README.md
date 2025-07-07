@@ -45,7 +45,7 @@ GIS/
 ├── styles/
 │   └── style.css          # Core CSS for layout, theming, and responsiveness
 ├── scripts/
-│   └── main.js            # Main JavaScript: map logic, data loading, UI events
+│   └── main.js            # Main JavaScript: map logic,  data loading, UI events
 ├── assets/
 │   ├── images/            # Icons, logos, map markers, etc.
 │   └── data/              # Sample spatial data files (GeoJSON, CSV, etc.)
